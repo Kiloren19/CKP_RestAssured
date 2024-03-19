@@ -18,7 +18,7 @@ Project Structure:
     - java
       - config
         -TestConfig.java (Empty)
-      -AppTest.java (Here its were all the test are)
+      - AppTest.java (Here its were all the test are)
 - target
 - pom.xml (Maven configuration file)
 - README.md (Project documentation)
